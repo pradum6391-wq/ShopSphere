@@ -328,7 +328,7 @@ General deployment steps:
 5. Configure SPA routing redirects so React Router routes work after page refresh.
 6. Deploy the application.
 
-**Live Demo:** YOUR_DEPLOYED_PROJECT_URL
+**Live Demo:** [DEPLOYED_URL](https://p-shopease.netlify.app/)
 
 **GitHub Repository:** [GitHub Repo Link](https://github.com/pradum6391-wq/ShopSphere.git)
 
