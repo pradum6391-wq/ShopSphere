@@ -295,23 +295,23 @@ screenshots/
 
 ### Home Page
 
-![Home Page](../screenshots/home.png)
+![Home Page](./screenshots/home.png)
 
 ### Product Listing
 
-![Product Listing](../screenshots/product.png)
+![Product Listing](./screenshots/product.png)
 
 ### Product Details
 
-![Product Details](../screenshots/productdetails.png)
+![Product Details](./screenshots/productdetails.png)
 
 ### Login Page
 
-![Login Page](../screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Registration Page
 
-![Registration Page](../screenshots/register.png)
+![Registration Page](./screenshots/register.png)
 
 ---
 
@@ -330,7 +330,7 @@ General deployment steps:
 
 **Live Demo:** YOUR_DEPLOYED_PROJECT_URL
 
-**GitHub Repository:** YOUR_GITHUB_REPOSITORY_URL
+**GitHub Repository:** [GitHub Repo Link](https://github.com/pradum6391-wq/ShopSphere.git)
 
 ---
 
